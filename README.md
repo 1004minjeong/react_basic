@@ -26,5 +26,7 @@
  ![image](https://github.com/1004minjeong/react_basic/assets/129016976/8b9d1419-f521-4912-97a4-f5207629d845)
 # setting 설정
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/97b595de-1996-432b-928d-ffeb895c01b1)
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/21345d28-ab07-490c-9163-52c7a54e4e0b)
+
 
 
