@@ -17,3 +17,7 @@
   
 # 🔥화살표함수로 바꿈
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/6f072950-0721-45ee-b728-9704bb2310fb)
+
+# 🔥함수를 밖으로 빼기
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/4e8c059d-a247-4c6a-835c-393628a145c4)
+
