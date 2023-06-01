@@ -14,3 +14,6 @@
 
 # 🔥함수만들기
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/b57abbbe-19e0-4faa-b373-e85634efa110)
+  
+# 🔥화살표함수로 바꿈
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/6f072950-0721-45ee-b728-9704bb2310fb)
