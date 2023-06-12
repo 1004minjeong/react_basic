@@ -1,6 +1,6 @@
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/ea28bb04-fe82-458d-b286-e2584b12fc09)
 
-       npm i json-server
+              npm i json-server
        
 # db.json 파일 만들기
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/fd12fd23-f507-4e55-bb51-df92da164c1b)
@@ -14,3 +14,6 @@
 # 위와 같이 실행하면 port를 3000번을 사용하기 때문에 react와 중복이 되어버린다.
 # 그래서 port를 변경해 주어야 한다.
               json-server --watch db.json --port 3004
+# 혹시 실행이 안된다면 아래처럼
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/ecf8ca16-29c0-4f50-a300-5a28b26a0254)
+
