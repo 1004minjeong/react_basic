@@ -26,7 +26,10 @@
                
                npm i axios
                
+ # imprt에 넣기
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/f64c1025-8def-4c09-8279-8580c7666927)
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/c7343782-da71-41fa-abb8-972bdbae0f7a)
+
 
 
 
