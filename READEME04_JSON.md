@@ -29,7 +29,11 @@
  # imprt에 넣기
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/f64c1025-8def-4c09-8279-8580c7666927)
 ![image](https://github.com/1004minjeong/react_basic/assets/129016976/c7343782-da71-41fa-abb8-972bdbae0f7a)
-
+              
+              이과정을 거쳐서 http://localhost:3004/posts 
+              들어가면 밑에화면처럼나옴
+![image](https://github.com/1004minjeong/react_basic/assets/129016976/f5f27f8b-daff-477f-abea-d6a39ba42e1d)
+            
 
 
 
